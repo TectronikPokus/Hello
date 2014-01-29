@@ -11,7 +11,7 @@ namespace GitPokusAplikace
         static void Main(string[] args)
         {
             int hello = 5;
-            int dude = 6;
+            int dude = 4;
             int vysledek = hello + dude;
             System.Console.WriteLine("Sbohem zly stete, soucet helloduda je " + vysledek + " a Hello dne je: " + prom(10));
             System.Console.ReadKey();

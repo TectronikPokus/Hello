@@ -13,7 +13,7 @@ namespace GitPokusAplikace
             int hello = 5;
             int dude = 4;
             int vysledek = hello + dude;
-            System.Console.WriteLine("TOMAS WAS HERE " + vysledek + " a Hello dne je: " + prom(10));
+            System.Console.WriteLine("TOMAS WAS HERE AND MY MOME!!!! " + vysledek + " a Hello dne je: " + prom(10));
             System.Console.ReadKey();
         }
 
